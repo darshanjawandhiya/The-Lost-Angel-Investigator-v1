@@ -26,7 +26,7 @@ Installation Process
  
 1. First clone git repository.<br>
 Write command in cmd <br>
-command - git clone https://github.com/darshanjawandhiya/The-Lost-Angel-Investigator-v1
+command - git clone https://github.com/darshanjawandhiya/The-Lost-Angel-Investigator-v1.git
 
 2. Change directory to this folder <br>
 command - cd HackathonWCE  <br>
