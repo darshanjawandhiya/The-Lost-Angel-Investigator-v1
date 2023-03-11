@@ -1,5 +1,5 @@
 # The Lost-Angel-Investigator
-Version : 1 <br>
+Version : v1 <br>
 Team Members -
 
 1. Harsh Shrirame <br>
