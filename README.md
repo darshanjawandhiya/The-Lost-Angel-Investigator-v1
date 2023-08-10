@@ -13,7 +13,18 @@ MTCNN, a very successful deep learning method for image-based applications, is e
 ***
 This model has got 76.81% accuracy on this validation dataset.
 ***
+I am excited to share that I and my team successfully presented our research paper, titled "𝐋𝐨𝐬𝐭 + 𝐅𝐨𝐮𝐧𝐝: 𝐓𝐡𝐞 𝐋𝐨𝐬𝐭 𝐀𝐧𝐠𝐞𝐥 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐠𝐚𝐭𝐨𝐫", at the 2nd International Conference on Innovative Computing and Applications (ICICA-2022).
 
+The paper highlights a technique for 𝐟𝐢𝐧𝐝𝐢𝐧𝐠 𝐦𝐢𝐬𝐬𝐢𝐧𝐠 𝐜𝐡𝐢𝐥𝐝𝐫𝐞𝐧 using 𝐟𝐚𝐜𝐢𝐚𝐥 𝐫𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲.
+
+The conference was held by the Department of Information Technology at Shri Ramdeobaba College of Engineering and Management in Nagpur.
+
+Additionally, our paper was honoured with the "𝐁𝐞𝐬𝐭 𝐏𝐚𝐩𝐞𝐫 𝐀𝐰𝐚𝐫𝐝" in the "𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭" category.
+I want to express my gratitude to my colleagues Harsh Shrirame, Bhavesh Kewalramani, and Daksh Kothari, for their invaluable support and contributions.
+
+I would also like to thank Prof. Rina Damdoo for providing us with this opportunity and for guiding us throughout the process.
+
+You can access our paper at the following link: https://bit.ly/lostangelinvestigator (Research paper pdf added to the repository for your reference.)
 ***
 CroppedDataset.zip is zipped file for dataset.
 
